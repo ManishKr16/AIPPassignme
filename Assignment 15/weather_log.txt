@@ -1,0 +1,26 @@
+
+================================================================================
+Logged at: 2025-12-06 11:26:38
+================================================================================
+{
+    "timestamp": "2025-12-06 11:26:38",
+    "city": "London",
+    "country": "GB",
+    "latitude": 51.5085,
+    "longitude": -0.1257,
+    "temperature": 9.63,
+    "feels_like": 7.49,
+    "temp_min": 8.95,
+    "temp_max": 10.05,
+    "pressure": 993,
+    "humidity": 89,
+    "weather": "Rain",
+    "description": "light rain",
+    "wind_speed": 4.12,
+    "wind_degree": 220,
+    "cloudiness": 71,
+    "visibility": 10000,
+    "sunrise": 1765007440,
+    "sunset": 1765036368
+}
+
